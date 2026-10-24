@@ -15,7 +15,7 @@ SMS Spam Detection is a machine learning project that classifies text messages a
 - TF-IDF feature extraction.
 - Machine learning model prediction.
 - Spam and ham classification.
-- Interactive Streamlit web application.
+
 
 ## 🛠️ Technologies Used
 - Python
