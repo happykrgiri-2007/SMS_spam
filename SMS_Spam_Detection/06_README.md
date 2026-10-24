@@ -88,4 +88,5 @@ Predictions depend on the training dataset and model performance.
 - Test the model on new, unseen messages.
 
 ## 👨‍💻 Author
+      Happy Kumar
 Developed as a machine learning project to explore SMS classification using Python and NLP.
